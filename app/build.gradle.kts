@@ -53,4 +53,6 @@ dependencies {
     // Glide（图片加载）
     implementation("com.github.bumptech.glide:glide:4.16.0")
     annotationProcessor("com.github.bumptech.glide:compiler:4.16.0")
+    // 下拉刷新
+    implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 }
